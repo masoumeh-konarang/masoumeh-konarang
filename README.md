@@ -9,10 +9,10 @@
 <body>
     <h1>Hello, there! 👋</h1>
     <ul>
-         🎓 I'm computer Engineering Student</li>
-         💻 Passionate about programming and learning new technologies</li>
-         🌱 Currently learning Python and Git</li>
-         📫 How to reach me: <a href="mailto:masoumeh.konarang.004@gmail.com">masoumeh.konarang.004@gmail.com</a></li>
+         <li>🎓 I'm computer Engineering Student</li>
+         <li>💻 Passionate about programming and learning new technologies</li>
+         <li>🌱 Currently learning Python and Git</li>
+         <li>📫 How to reach me: <a href="mailto:masoumeh.konarang.004@gmail.com">masoumeh.konarang.004@gmail.com</a></li>
     </ul>
 </body>
 </html>

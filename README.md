@@ -7,7 +7,7 @@
     
 </head>
 <body>
-    <h1>Hello, I'm Masoumeh Konarang! 👋</h1>
+    <h1>Hello, there! 👋</h1>
     <ul>
         <li>💻 Passionate about programming and learning new technologies</li>
         <li>🌱 Currently learning Python and Git</li>

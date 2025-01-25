@@ -1,7 +1,18 @@
-## Hello,I'm Masoumeh Konarang👋
 
-  <hi>🎓 computer engineering student
-  <hi>💻Interested in programming and learning new technologies
-  🌱 Learning Python and Git
-  📫 Contact me: masoumeh.konarang.004@gmail.com
-
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+</head>
+<body>
+    <h1>Hello, I'm Masoumeh Konarang! 👋</h1>
+    <ul>
+        <li>🎓 Computer Engineering Student</li>
+        <li>💻 Passionate about programming and learning new technologies</li>
+        <li>🌱 Currently learning Python and Git</li>
+        <li>📫 Contact me: <a href="mailto:masoumeh.konarang.004@gmail.com">masoumeh.konarang.004@gmail.com</a></li>
+    </ul>
+</body>
+</html>
